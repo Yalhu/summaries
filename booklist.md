@@ -1,8 +1,3 @@
-title: booklist
-top: 997
-toc_fold: unfold
----
-
 pdf list and schedule。    
 <!-- 单独文件不记入schedule,schedule是从todos cc。    -->
 
