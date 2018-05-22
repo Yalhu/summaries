@@ -1,8 +1,3 @@
-title: schedule
-top: 998
-<!-- tags: 997 -->
----
-
 日程/计划表   
 Pick out from priv/todos list and publish it. It also includes items from booklist and resource,exclude rest and others. But does not include prepared.   
 
@@ -12,7 +7,7 @@ Pick out from priv/todos list and publish it. It also includes items from bookli
 1. - [ ] 基于Redux的React Native六天实战课程最新版
 1. - [ ] 《高性能网站建设指南》
 1. - [ ] YX资料整理/总结
-1. - [ ] CORS
+1. - [ ] 《尽管去做 》
 1. - [ ] 《*性能优化51技》
 1. - [ ] 
 
