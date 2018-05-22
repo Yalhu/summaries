@@ -1,7 +1,3 @@
-title: 博文状态
-top: 999 # 负数不管用;有数就排序
-toc_fold: unfold
----
 
 博文状态
 
