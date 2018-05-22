@@ -1,7 +1,3 @@
-title: resource
-top: 997
-toc_fold: unfold
----
 
 w3 list and schedule。    
 <!-- 单独文件不记入schedule,schedule是从todos cc。-->
